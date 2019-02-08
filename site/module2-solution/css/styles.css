@@ -1,0 +1,50 @@
+* {
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+}
+
+#chicken {
+	background-color: red;
+}
+
+#chicken-title {
+	background-color: aqua;
+}
+
+#beef {
+	background-color: blue;	
+}
+
+#beef-title {
+	background-color: maroon;
+}
+
+#sushi {
+	background-color: grey;	
+}
+
+#sushi-title {
+	background-color: olive;
+}
+
+.title {
+	position: absolute;
+	right: 0px;
+	margin-top: 0px;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;	
+}
+
+.text {
+}
+
+.section {
+	position: relative;
+	border-width: 1px;
+	border-color: black;
+	border-style: solid;	
+}
