@@ -1,0 +1,23 @@
+* {
+	box-sizing: border-box;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-nav .nav-item {
+	text-align: center;
+}
+
+.nav-item {
+	background-color: #D0D0D0;
+	border: 1px solid black;
+	margin: 0px 2px 0px;
+}
+
+#main-content {
+	padding: 0px 40px 0px;
+}
+
+.row div div {
+	background-color: peachpuff;
+	padding: 10px;
+}
